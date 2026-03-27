@@ -3,6 +3,7 @@
         "id": "rendszerkarbantarto",
         "name": "Rendszerkarbantartó",
         "version": "1.5.0",
+        "description": "Ez a program segít tisztán tartani a rendszeredet, törli a felesleges fájlokat és optimalizálja a regisztrációs adatbázist.",
         "icon_url": "https://cdn-icons-png.flaticon.com/512/1157/1157109.png",
         "setup_local": "Apps/rendszerkarbantarto_setup.exe",
         "exe_full_path": "C:/Program Files/Rendszerkarbantarto/rendszerkarbantarto.exe",
