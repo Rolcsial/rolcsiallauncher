@@ -4,7 +4,8 @@
         "name": "Rendszerkarbantartó",
         "version": "1.5.0",
         "icon_url": "https://cdn-icons-png.flaticon.com/512/1157/1157109.png",
-        "local_path": "Apps/rendszerkarbantarto_setup.exe",
+        "setup_local": "Apps/rendszerkarbantarto_setup.exe",
+        "exe_full_path": "C:/Program Files/Rendszerkarbantarto/rendszerkarbantarto.exe",
         "download_url": "https://github.com/Rolcsial/rolcsiallauncher/releases/download/Rendszerkarbantart%C3%B3/rendszerkarbantarto_1_5_setup.exe"
     }
 ]
